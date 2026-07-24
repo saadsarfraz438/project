@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LumensoftPosApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+395199a5b1cd50c3cc1acefe58194562da06a268")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1363a25b0563141f97e816586e78a8b07214161")]
 [assembly: System.Reflection.AssemblyProductAttribute("LumensoftPosApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LumensoftPosApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
